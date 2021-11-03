@@ -18,11 +18,17 @@ Use NLP to train classifier on which subreddit a post has been given to.
 
 #### Word Cloud for Makeup Subreddit
 
-![](https://github.com/siti-alawiyah/projects/blob/master/Project_3%20NLP%20and%20webscrapping%20on%20Subreddit/Images/makeup%20word%20cloud.png)
+![](https://github.com/siti-alawiyah/NLPSubreddit/blob/main/Images/makeup%20word%20cloud.png)
 
 #### Word Cloud for Fragrance Subreddit
 
-![](https://github.com/siti-alawiyah/projects/blob/master/Project_3%20NLP%20and%20webscrapping%20on%20Subreddit/Images/fragrance%20word%20cloud.png)
+![](https://github.com/siti-alawiyah/NLPSubreddit/blob/main/Images/fragrance%20word%20cloud.png)
+
+![](https://github.com/siti-alawiyah/NLPSubreddit/blob/main/Images/percentage%20of%20text%20only%20post.png)
+
+![](https://github.com/siti-alawiyah/NLPSubreddit/blob/main/Images/top%20phrases.png)
+
+![](https://github.com/siti-alawiyah/NLPSubreddit/blob/main/Images/venn%20diagram.png)
 
 ## Modelling Process
 
@@ -51,19 +57,19 @@ convert fragrance: 0, makeup 1 as their binary labels
 
 ### RandomForestClassifier
 
-Best Parameters: ![](https://github.com/siti-alawiyah/projects/blob/master/Project_3%20NLP%20and%20webscrapping%20on%20Subreddit/Images/rf%20bestparams.png)
+Best Parameters: ![](https://github.com/siti-alawiyah/NLPSubreddit/blob/main/Images/rf%20bestparams.png)
 
-Results:![](https://github.com/siti-alawiyah/projects/blob/master/Project_3%20NLP%20and%20webscrapping%20on%20Subreddit/Images/rf%20results.png)
+Results:![](https://github.com/siti-alawiyah/NLPSubreddit/blob/main/Images/rf%20results.png)
 
 ### Naive Bayes
 
 Best Parameters: 
 
-![](https://github.com/siti-alawiyah/projects/blob/master/Project_3%20NLP%20and%20webscrapping%20on%20Subreddit/Images/nb%20bestparams.png)
+![](https://github.com/siti-alawiyah/NLPSubreddit/blob/main/Images/nb%20bestparams.png)
 
 Results:
 
-![](https://github.com/siti-alawiyah/projects/blob/master/Project_3%20NLP%20and%20webscrapping%20on%20Subreddit/Images/nb%20results.png)
+![](https://github.com/siti-alawiyah/NLPSubreddit/blob/main/Images/nb%20results.png)
 
 ## Conclusion and Future Work
 
